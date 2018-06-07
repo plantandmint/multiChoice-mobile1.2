@@ -1,0 +1,14 @@
+{
+  "expo": {
+   "name": "example",
+   "version": "1.0.0",
+   "slug": "sippanon-example",
+   "sdkVersion": "25.0.0",
+   "ios": {
+     "bundleIdentifier": "com.sippanon.example"
+   },
+   "android": {
+     "package": "com.sippanon.example"
+   }
+  }
+}
